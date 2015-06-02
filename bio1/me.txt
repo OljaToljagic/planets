@@ -1,0 +1,2 @@
+I am Olja, I am 28 years old and I am trying Git.
+I am adding a new line.
